@@ -1,6 +1,6 @@
 # Bem vindo!
 
-Sou Desenvolvedor Backend, com foco em PHP (POO), JavaScript e Python. Também tenho experiências práticas com C e Java.
+Sou Desenvolvedor Backend, com foco em PHP (POO), JavaScript e Python. Também tenho experiências práticas com Node.js, Python e React.
 Atuo na área desde **outubro de 2024** e venho evoluindo constantemente no desenvolvimento de soluções robustas, performáticas e bem estruturadas, visando sempre escalabilidade.
 
 Graduado em **Análise e Desenvolvimento de Sistemas**, gosto especialmente da parte lógica, automações e construção de APIs.
